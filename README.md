@@ -1,4 +1,4 @@
-This repository contains the out come of an 'Introduction to Machine Learning" course offered by the University of Houston-Hewllet Packard Data Science Instititue.
+This repository contains the outcome of an 'Introduction to Machine Learning" course offered by the University of Houston-Hewllet Packard Data Science Instititue.
 EARNING CRITERIA
 Recipients must complete the earning criteria to earn this badge
 
